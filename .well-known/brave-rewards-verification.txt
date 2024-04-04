@@ -1,0 +1,4 @@
+This is a Brave Creators publisher verification file.
+
+Domain: nunees.github.io
+Token: 46c92b0005d15b4b7f09eebf46fb0f50baa2724d001cd5bbc75d13f1a3d3fb2a
